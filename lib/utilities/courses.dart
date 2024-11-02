@@ -18,18 +18,18 @@ class _CoursesState extends State<Courses> {
 
     List<Courses> filteredCourseList = []; //initially it is empty
 
-    @override
-    void initState() {
-      super.initState();
-      filteredCourseList = coursesList.cast<Courses>();
-      _searchController.addListener(_filterCourses);
-    }
+    // @override
+    // void initState() {
+    //   super.initState();
+    //   filteredCourseList = coursesList.cast<Courses>();
+    //   _searchController.addListener(_filterCourses);
+    // }
 
-    void _filterCourses(){
-      setState(() {
-        filteredCourseList=coursesList.where((Course)=>course.name.toLowerCase())
-      });
-    }
+    // void _filterCourses(){
+    //   setState(() {
+    //     filteredCourseList=coursesList.where((Course)=>course.name.toLowerCase())
+    //   });
+    // }
 
     return Scaffold(
       backgroundColor: Colors.white,
