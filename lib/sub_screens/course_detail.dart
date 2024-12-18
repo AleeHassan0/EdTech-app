@@ -46,7 +46,7 @@ class CourseDetails extends StatelessWidget {
               fullDetails,
             ),
             const SizedBox(
-              height: 10,
+              height: 10.1,
             ),
             Text('Duration',
                 style: GoogleFonts.rubik(
