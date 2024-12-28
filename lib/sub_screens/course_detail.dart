@@ -21,7 +21,7 @@ class CourseDetails extends StatelessWidget {
           style: GoogleFonts.rubik(
               color: Colors.black, fontWeight: FontWeight.bold, fontSize: 24),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.red,
         automaticallyImplyLeading: true,
       ),
       backgroundColor: Colors.white,
