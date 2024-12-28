@@ -32,7 +32,7 @@ class CourseDetails extends StatelessWidget {
           children: [
             Image.asset(image),
             const SizedBox(
-              height: 20.1,
+              height: 20,
             ),
             Text('About the course',
                 style: GoogleFonts.rubik(
