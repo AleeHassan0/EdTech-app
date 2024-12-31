@@ -26,7 +26,7 @@ class CourseDetails extends StatelessWidget {
       ),
       backgroundColor: Colors.white,
       body: Padding(
-        padding: const EdgeInsets.only(left: 10, right: 11, top: 50),
+        padding: const EdgeInsets.only(left: 10, right: 10, top: 50),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
