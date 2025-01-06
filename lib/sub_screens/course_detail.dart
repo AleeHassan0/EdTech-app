@@ -40,7 +40,7 @@ class CourseDetails extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                     fontSize: 24)),
             const SizedBox(
-              height: 11,
+              height: 13,
             ),
             Text(
               fullDetails,
