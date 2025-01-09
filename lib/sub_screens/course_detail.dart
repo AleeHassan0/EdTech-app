@@ -45,15 +45,14 @@ class CourseDetails extends StatelessWidget {
             Text(
               fullDetails,
             ),
-            const SizedBox(
-            ),
+            const SizedBox(),
             Text('Duration',
                 style: GoogleFonts.rubik(
                     color: Colors.black,
                     fontWeight: FontWeight.bold,
                     fontSize: 24)),
             const SizedBox(
-              height: 5,
+              height: 6,
             ),
             Text(duration),
             Padding(
