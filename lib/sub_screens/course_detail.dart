@@ -58,7 +58,7 @@ class CourseDetails extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(left: 33, top: 60),
               child: Container(
-                height: 46,
+                height: 47,
                 width: 300,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(15),
