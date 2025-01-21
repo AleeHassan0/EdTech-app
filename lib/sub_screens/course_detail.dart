@@ -52,13 +52,13 @@ class CourseDetails extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                     fontSize: 24)),
             const SizedBox(
-              height: 8,
+              height: 6,
             ),
             Text(duration),
             Padding(
               padding: const EdgeInsets.only(left: 33, top: 60),
               child: Container(
-                height: 49,
+                height: 48,
                 width: 300,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(15),
