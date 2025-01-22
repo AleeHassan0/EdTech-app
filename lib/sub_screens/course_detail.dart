@@ -50,7 +50,7 @@ class CourseDetails extends StatelessWidget {
                 style: GoogleFonts.rubik(
                     color: Colors.black,
                     fontWeight: FontWeight.bold,
-                    fontSize: 24)),
+                    fontSize: 2)),
             const SizedBox(
               height: 7,
             ),
