@@ -69,7 +69,7 @@ class CourseDetails extends StatelessWidget {
                   style: GoogleFonts.rubik(
                       color: Colors.white,
                       fontWeight: FontWeight.w500,
-                      fontSize: 21),
+                      fontSize: 22),
                 )),
               ),
             )
