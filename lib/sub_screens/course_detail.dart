@@ -52,7 +52,7 @@ class CourseDetails extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                     fontSize: 2)),
             const SizedBox(
-              height: 7,
+              height: 8,
             ),
             Text(duration),
             Padding(
